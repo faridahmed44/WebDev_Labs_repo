@@ -1,0 +1,91 @@
+.titlediv{
+    background-color: rgb(52, 118, 133);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+.aboutmediv{
+    color: black;
+    text-align: center;
+    padding: 10px;
+    margin: 100px;
+    font-family: Arial, sans-serif;
+}
+.projectsdiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.projectscontdiv{
+    
+    text-align: center;
+    margin: 150px;
+     font-family: Arial, sans-serif;
+}
+.project1{
+    background-color: rgb(221, 242, 247);
+    color: black;
+     border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.project2{
+    background-color: rgb(221, 242, 247);
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.project3{
+    background-color: rgb(221, 242, 247);
+    color: black;
+     border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.contactdiv{
+    margin: 30px 30px 70px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+.contactinput{
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+
+    border: 1px solid #ccc;
+}
+.contacttextarea{
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.button1{
+    background-color: rgb(52, 118, 133);
+    color: white;
+    width: 520px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.theEnddiv{
+    background-color: rgb(52, 118, 133);
+    color: white;
+    text-align: center;
+    padding: 3px;
+    font-family: Arial, sans-serif;
+}
